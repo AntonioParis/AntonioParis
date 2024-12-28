@@ -20,4 +20,4 @@
 </div>
 <br>
 <br>
-Olá! Sou Antônio Paris, estudante do 2º semestre de Engenharia de Software na UCSal. Estou em busca de aprender e crescer na área de desenvolvimento.
+
