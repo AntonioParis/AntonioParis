@@ -12,9 +12,6 @@
 <hr>   
 
 <div style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Ícone de CSS3" width="50" height="50" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Ícone de HTML5" width="50" height="50" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Ícone de JavaScript" width="50" height="50" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Ícone de Java" width="50" height="50" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Ícone de C#" width="50" height="50" style="margin: 5px;" />
 </div>
