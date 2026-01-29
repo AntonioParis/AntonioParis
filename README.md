@@ -6,7 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-4B4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonioparismoraisjunior@gmail.com)
 
 
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioParis&show_icons=true&theme=radical)
 
 ### Linquagens que estou Apredendo.
 <hr>   
